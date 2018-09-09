@@ -8,7 +8,7 @@ public class FirstTest extends WebDriverSettings {
     @Test
 
 
-    public void firstTest1() { //test
+    public void firstTest1() {
 
         driver.get("https://www.facebook.com/");
         System.out.println("Open");
